@@ -83,10 +83,6 @@ Example:
 
 This will generate a decrypted `.env.sample.decrypted` file.
 
-## Key Management
-
-The tool uses a fixed encryption key in the code (`myverystrongpasswordo32bitlength`). In production, consider using a more secure key management solution or allow the user to specify a key at runtime.
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests.
