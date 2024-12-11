@@ -1,0 +1,3 @@
+# Ignorer les fichiers temporaires ou générés
+.env
+*.encrypted
