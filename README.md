@@ -43,6 +43,12 @@ This will generate an executable file called `envbuddy`.
 
 ## Usage
 
+Create a .env file with the following content:
+
+```
+ENCRYPTION_KEY=myverystrongpasswordo32bitlength
+```
+
 After building the application, you can use the following commands.
 
 ### Encrypt a `.env` file
